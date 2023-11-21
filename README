@@ -1,0 +1,35 @@
+Para poder ejecutar el codigo debemos reconstruir el node modules ,entonces
+ejecutamos el npm install i, con esto reconstruimos el node modules 
+pues este contiene todas las dependencia que necesitamos.
+
+Debemos recordar que para nosotros poder subir el proyecto debemos eliminar dicho 
+paquete pues tiende a ser muy pesado 
+
+Luego de que hayamos reconstruimos, para correr el proyecto ejecutamos el comando
+npm run dev, esto nos dara un puerto local y con este podremos ver la pagina en tiempo real 
+
+
+
+
+
+Solucion Preguntas
+
+¿Cómo decidió las opciones técnicas y arquitectónicas utilizadas como parte de su 
+solución? 
+
+Las decidi primero con base a las recomendaciones e intrucciones que se dan en la 
+formacion tecnologia del Sena, ademas del conocimiento adquirido de maner autonoma 
+
+
+
+¿Hay alguna mejora que pueda hacer en su envío?
+
+No, considero que se ha cumplido a cabalidad con todos los requerimientos solicitados 
+
+
+
+
+¿Qué haría de manera diferente si se le asignara más tiempo?
+
+Dependiendo del tiempo estudiaria como hacerlo en angular
+
